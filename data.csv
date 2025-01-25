@@ -1,4 +1,4 @@
-childen,days_employed,dob_years,education,education_id,family_status,family_status_id,gender,income_type,debt,total_income,purpose
+adults_instead_children,days_employed,dob_years,education,education_id,family_status,family_status_id,gender,income_type,debt,total_income,purpose
 1,-8437.673027760233,42,высшее,0,женат / замужем,0,F,сотрудник,0,253875.6394525987,покупка жилья
 1,-4024.803753850451,36,среднее,1,женат / замужем,0,F,сотрудник,0,112080.01410244203,приобретение автомобиля
 0,-5623.422610230956,33,Среднее,1,женат / замужем,0,M,сотрудник,0,145885.95229686378,покупка жилья
